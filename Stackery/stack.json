@@ -20,8 +20,8 @@
       "id": "796f3aba",
       "type": "restApi",
       "path": "/*",
-      "domain": "coridata.org",
-      "x": 250,
+      "domain": "hapi.coridata.org",
+      "x": 270,
       "y": 220,
       "wires": [
         [
